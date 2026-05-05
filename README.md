@@ -8,7 +8,7 @@ Proyecto académico enfocado en la aplicación de sistemas de información y pro
   - Registrar productos
   - Eliminar productos
   - Modificar precios
-  - Listar y ordenar productos alfabéticamente
+  - Ordenar alfabeticamente
 - 📊 **Control de inventario**
   - Ajuste de stock
   - Advertencia automática de stock bajo
@@ -22,8 +22,6 @@ Proyecto académico enfocado en la aplicación de sistemas de información y pro
 - 📈 **Reportes**
   - Reporte general
   - Reporte de productos con stock bajo
-- 💾 **Persistencia de datos**
-  - Inventario guardado en archivo `inventario.txt`
 
 ---
 
