@@ -33,3 +33,5 @@ Proyecto académico enfocado en la aplicación de sistemas de información y pro
 - **Sistema operativo:** Windows
 
 ---
+👤 Autor
+Teo Maita 🎓 Estudiante de la Escuela Politécnica Nacional 🇪🇨 Ecuador
